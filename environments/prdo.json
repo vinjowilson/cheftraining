@@ -1,0 +1,10 @@
+{
+ "name": "prod",
+ "descritpion: "prodcution box",
+ "json_class": "Chef::Environment",
+ "chef_type": "environment",
+ "cookbook_verions": {
+                "apache2: "= 0.1.0"
+ }
+}
+
